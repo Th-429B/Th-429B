@@ -31,10 +31,10 @@ Links to my socials:
 ---
 ## Link to my projects! :
 [Web TaskList](https://github.com/Th-429B/task-list): Basic CRUD Web page made with Ruby on Rails and PostgreSQL. <br>
-[Quack!](https://github.com/Th-429B/Quack): Clicker simulation game inspired by cookie clicker made during Hack&Roll 2022. <br>
+[Quack!](https://github.com/Th-429B/Quack): Clicker simulation game inspired by cookie clicker made during Hack&Roll 2022. Made using ReactNative<br>
 [Financial Advisor Smart Tracker (F.A.S.T)](https://github.com/Th-429B/tp): Contact Management application for Finanacial Advisors made in Java and JavaFX. <br>
-[Productivity Warrior](https://github.com/Th-429B/ProductivityWarrior): All-in-one productivity app made for students by students. Features a mod-tracker and cap tracker for NUS students. <br>
-[TaskMe](https://github.com/Th-429B/ip): Command line interface chatbot-style task manager.
+[Productivity Warrior](https://github.com/Th-429B/ProductivityWarrior): All-in-one productivity app made for students by students. Features a mod-tracker and cap tracker for NUS students. Made using ReactNative. <br>
+[TaskMe](https://github.com/Th-429B/ip): Command line interface chatbot-style task manager made in Java with JavaFx.
 
 ---
 
