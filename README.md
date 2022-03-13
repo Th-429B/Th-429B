@@ -10,11 +10,11 @@ I am currently looking for internships for the summer!
 
 Links to my socials:
 <br>
-[![Email][1.2]][1]
+[![Email][1.2]][1] [Email][1].
 <br>
-[![LinkedIn][2.2]][2].
+[![LinkedIn][2.2]][2] [LinkedIn][2].
 <br>
-[![Resume][3.2]][3]
+[![Resume][3.2]][3] [Resume][3].
 
 <!-- Icons -->
 
@@ -26,10 +26,11 @@ Links to my socials:
 
 [1]: mailto:tenghonlau@gmail.com
 [2]: https://www.linkedin.com/in/tenghonlau/
-[3]: https://drive.google.com/file/d/1zcNZHtMKd3wjuq4zW0YjwXrea2AfIb_c/view?usp=sharing
+[3]: https://drive.google.com/file/d/1v9jGMJvcJrlj0qdu2RMJC4_0AtmizdFv/view?usp=sharing
 
 ---
 ## Link to my projects! :
+[Twitter Clone](https://github.com/Th-429B/Twitter-Clone): Twitter Clone made using Rails and deployed on Heroku <br>
 [Web TaskList](https://github.com/Th-429B/task-list): Basic CRUD Web page made with Ruby on Rails and PostgreSQL. <br>
 [Quack!](https://github.com/Th-429B/Quack): Clicker simulation game inspired by cookie clicker made during Hack&Roll 2022. Made using ReactNative<br>
 [Financial Advisor Smart Tracker (F.A.S.T)](https://github.com/Th-429B/tp): Contact Management application for Finanacial Advisors made in Java and JavaFX. <br>
