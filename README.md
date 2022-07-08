@@ -1,6 +1,6 @@
 # Hi there, I'm Teng Hon 👋
 
-I'm a year 2 Computer Science student from Singapore studying at National University of Singapore! I'm still wandering around the various fields of Computer Science, but so far,  I seem to have  interests in Software Engineering and Machine Learning (though I have not really look into machine learning). 
+I'm a year 3 Computer Science student from Singapore studying at National University of Singapore! I'm still wandering around the various fields of Computer Science, but so far, I am interested in Software Engineering and keen to explore the various aspects of Software Engineering from the life cycle of the software to writing clean and maintainable code!
 <br>
 
 ## Find me here!
