@@ -1,6 +1,7 @@
 # Hi there, I'm Teng Hon 👋
 
-I'm a year 3 Computer Science student from Singapore studying at National University of Singapore! I'm still wandering around the various fields of Computer Science, but so far, I am interested in Software Engineering and keen to explore the various aspects of Software Engineering from the life cycle of the software to writing clean and maintainable code!
+I'm a year 4 Computer Science student from Singapore studying at National University of Singapore! I am going to graduate in July 2024 and I'm looking for full time opportunities. I am passionate about Software Engineering and love to build software to help people tackle their pain points to boost their quality of life productivity. Software engineering to me is more than just building those solutions, it is about teamwork and writing clean and maintainable code to bring those ideas to life! 
+
 <br>
 
 ## Find me here!
@@ -24,7 +25,7 @@ Links to my socials:
 
 [1]: mailto:tenghonlau@gmail.com
 [2]: https://www.linkedin.com/in/tenghonlau/
-[3]: https://drive.google.com/file/d/1v9jGMJvcJrlj0qdu2RMJC4_0AtmizdFv/view?usp=sharing
+[3]: https://drive.google.com/file/d/1MdAqGGXihLynVn01vq1OxXSe17NVZeKl/view?usp=sharing
 
 ---
 ## Link to my projects! :
