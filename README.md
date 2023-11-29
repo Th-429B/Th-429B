@@ -1,6 +1,6 @@
 # Hi there, I'm Teng Hon 👋
 
-I'm a year 4 Computer Science student from Singapore studying at National University of Singapore! I am going to graduate in July 2024 and I'm looking for full time opportunities. I am passionate about Software Engineering and love to build software to help people tackle their pain points to boost their quality of life productivity. Software engineering to me is more than just building those solutions, it is about teamwork and writing clean and maintainable code to bring those ideas to life! 
+I'm a year 4 Computer Science student from Singapore studying at National University of Singapore! I am going to graduate in May 2024 and I'm looking for full time opportunities. I am passionate about Software Engineering and love to build software to help people tackle their pain points to boost their quality of life productivity. Software engineering to me is more than just building those solutions, it is about teamwork and writing clean and maintainable code to bring those ideas to life! 
 
 <br>
 
