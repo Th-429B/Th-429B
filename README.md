@@ -25,7 +25,7 @@ Links to my socials:
 
 [1]: mailto:tenghonlau@gmail.com
 [2]: https://www.linkedin.com/in/tenghonlau/
-[3]: https://drive.google.com/file/d/1MdAqGGXihLynVn01vq1OxXSe17NVZeKl/view?usp=sharing
+[3]: https://drive.google.com/file/d/1TOP2HnOh2xtQtrjMIP7n5j6zoLzyLnwJ/view?usp=sharing
 
 ---
 ## Link to my projects! :
